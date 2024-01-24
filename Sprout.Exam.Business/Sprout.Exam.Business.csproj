@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Sprout.Exam.Common\Sprout.Exam.Common.csproj" />
+    <ProjectReference Include="..\Sprout.Exam.DataAccess\Sprout.Exam.DataAccess.csproj" />
   </ItemGroup>
 
 </Project>

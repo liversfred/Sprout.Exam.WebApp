@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Sprout.Exam.Business.DataTransferObjects
+﻿namespace Sprout.Exam.Common.Interfaces
 {
-    public class EmployeeDto
+    public interface IEmployeeDto
     {
         public int Id { get; set; }
         public string FullName { get; set; }
