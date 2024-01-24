@@ -19,3 +19,6 @@
    - And we can also avoid issues related to using obsolete or deprecated technologies.
 2. Separate the identity server solution, Web API and the Client App (UI).
    - I'm always a fan of microservices architecture as each component can scale independently, allowing the developers to allocate resources where needed based on the specific demands of each part of your system.
+3. Consider Bonuses, Allowances (Taxable and non taxable), and other mandatory deductions
+  - It will also be base on employee type.
+  - We can consider including them as part of computation of net income.
